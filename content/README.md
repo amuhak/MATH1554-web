@@ -20,3 +20,6 @@ Feel free to make a pull request to contribute! I will take care of compiling th
 **OR**
 
 [Look at the PDFs](./pdf/)
+
+
+(This is the website version)
